@@ -1,5 +1,5 @@
 # Mad Libs
-![Cartoon jungle scene with various animals holding speech bubbles with blank spaces, representing Mad Libs words. In the foreground, a parrot holds a speech bubble with a blank space. Trees and vines are visible in the background. Colorful and whimsical.](https://github.com/alliysonbonner/MadLib/image.png?raw=true)
+![Cartoon jungle scene with various animals holding speech bubbles with blank spaces, representing Mad Libs words. In the foreground, a parrot holds a speech bubble with a blank space. Trees and vines are visible in the background. Colorful and whimsical.](https://github.com/AlliysonBonner/MadLib/blob/main/image.png?raw=true)
 Mad Libs is a word game in which players fill in the blanks of a story with random words, resulting in often humorous and unexpected sentences. This project is a simple implementation of the game in Python.
 
 ## Getting Started
@@ -23,7 +23,7 @@ If you would like to contribute to Mad Libs, you can fork the repository and sub
 * Alliyson Bonner
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/alliysonbonner/MadLib/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md]([https://github.com/alliysonbonner/MadLib/LICENSE.md](https://github.com/alliysonbonner/MadLib/LICENSE.md) file for details.
 
 ## Acknowledgments
 * The Mad Libs game was created by Leonard Stern and Roger Price in the 1950s.
